@@ -29,24 +29,9 @@ My long-term goal is to bridge the gap between cutting-edge AI research and real
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronLuo00&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLuo00&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AaronLuo00&theme=tokyonight&hide_border=true" height="200"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaronLuo00&theme=github-dark&hide_border=true" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLuo00&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
 ---
