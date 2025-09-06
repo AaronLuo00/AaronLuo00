@@ -12,6 +12,13 @@
 
 ---
 
+<p align="center">
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=AaronLuo00&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+---
+
 ## 🔬 Research Interests
 
 - **Flexible Diagnostic Models with Multi-task and Multi-modal Learning**:  
@@ -39,7 +46,7 @@ My long-term goal is to bridge the gap between cutting-edge AI research and real
 ## 🤝 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/xiaolong-luo-4a8281236/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://scholar.google.com/citations?user=Pjx2DdQAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
