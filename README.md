@@ -47,7 +47,7 @@ My long-term goal is to bridge the gap between cutting-edge AI research and real
   <a href="https://github.com/AaronLuo00">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://xhslink.com/m/9rvz3QJ3Tvu">
-    <img src="https://img.shields.io/badge/Xiaohongshu-EA4C89?logo=wechat&logoColor=white" alt="Xiaohongshu"/>
-  </a>
+<a href="https://xhslink.com/m/9rvz3QJ3Tvu">
+  <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logoColor=white" alt="Xiaohongshu"/>
+</a>
 </p>
