@@ -15,6 +15,12 @@
 <p align="center">
   <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=AaronLuo00&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/AaronLuo00?style=for-the-badge&logo=github&label=Followers"/>
+  
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/AaronLuo00?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars"/>
 </p>
 
 ---
