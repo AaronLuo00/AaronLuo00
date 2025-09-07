@@ -61,4 +61,12 @@
   <a href="https://xhslink.com/m/9rvz3QJ3Tvu">
     <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logoColor=white" alt="Xiaohongshu"/>
   </a>
+  <a href="https://www.instagram.com/aaron_luo_00/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
+
+---
+
+## ✨ Quote
+> *"Do, or do not. There is no 'try'."* — Yoda
