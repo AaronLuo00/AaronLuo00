@@ -49,18 +49,23 @@
 
 ## 🤝 Connect with me
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/xiaolong-luo-4a8281236/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <!-- Google Scholar -->
   <a href="https://scholar.google.com/citations?user=Pjx2DdQAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
+  <!-- GitHub -->
   <a href="https://github.com/AaronLuo00">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <!-- Xiaohongshu -->
   <a href="https://xhslink.com/m/9rvz3QJ3Tvu">
     <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logoColor=white" alt="Xiaohongshu"/>
   </a>
+  <!-- Instagram -->
   <a href="https://www.instagram.com/aaron_luo_00/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
