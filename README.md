@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 Languages and Tools
+## 👨🏻‍💻 Languages and Tools
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLuo00&layout=compact&theme=tokyonight" height="200"/>
 </p>
