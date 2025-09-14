@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=E06C75&center=true&vCenter=true&width=700&lines=🚀+Hi,+I'm+Xiaolong+(Aaron)+Luo;👨‍🚀+PhD+Student+@+Harvard+University;🔬+AI+Researcher+in+Healthcare;💊+Building+Diagnostic+AI+Agents;🌌+Exploring+Medical+AI+Frontiers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Xiaolong+(Aaron)+Luo;PhD+Student+@+Harvard+University;AI+Researcher+in+Healthcare;Building+Diagnostic+AI+Agents" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <a href="https://aaronluo00.github.io/Aaron_Homepage/"><strong>🌐 Explore my full homepage →</strong></a>
