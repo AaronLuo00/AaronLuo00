@@ -46,7 +46,7 @@
 ## 👨🏻‍💻 Languages and Tools
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronLuo00&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronLuo00&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLuo00&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
